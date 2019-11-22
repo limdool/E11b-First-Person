@@ -1,14 +1,13 @@
 # E11b-First-Person
 
-This is an opportunity to begin to experiment with a first-person perspective in a Godot 3D environment. This exercise will involve creating collision shapes to represent the player's body and then controlling the camera with the keyboard and mouse.
+Today, I built 3D first person shooter game using Godot. As usual, I forked and cloned the given repository on Canvas. Then, I opened Godot, chose a location for the repository, imported the file. For building the game, I used the following link: https://www.youtube.com/watch?v=_55ktNdarxY.
 
-First, **fork and clone** this repository. Then, open Godot and Import a project. Find the location of this repository in the Godot file picker and then open the project.godot file.
+The link is YouTube video shows how to build a simple 3D first person shooter game. Although the video explained well, there was one part that I could not work through it. It was a script attached to the character. I used exact same code that was used in the video but my character could not move around like the character moving around in the video. Later, I got help from my instructor. After getting help, my character was finally able to move around. The character can now move around and jump. 
 
-Again, the KidsCanCode tutorial should guide you step-by-step through this exercise. There is also a video that accompanies the tutorial. The only change from the video should be that you will navigate the terrain I have provided instead of the CSG environment he describes.
+It moves around by using the following keys: WASD. It jumps when 'Spacebar' is pressed. The camera can be controlled with the mouse.  
 
- * [Godot 101: Intro to 3D (part 5)](http://kidscancode.org/godot_recipes/basics/3d/101_3d_07/)
- * [(accompanying video)](https://www.youtube.com/watch?v=_55ktNdarxY)
- 
- When you are invited to download the Kenney Weapon Pack, you can do so here: [https://kenney.nl/assets/weapon-pack](https://kenney.nl/assets/weapon-pack).
- 
- When you have completed the exercise, save the Scenes, edit your LICENSE and README, commit everything to Github, and turn in the URL of your repository on Canvas.
+After that, I downloaded a weapon pack from https://kenney.nl/assets/weapon-pack. 
+
+For giving the weapon to my character, I watched the video and walked through it. 
+
+Later, I checked if everything works well. My project worked perfectly fine. Finally, I edited LICENSE and README.md.
